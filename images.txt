@@ -2,6 +2,7 @@ nginx
 #支持私库
 mysql:oracle
 nacos/nacos-server:2.0.1
+nacos/nacos-server:v2.4.3
 redis:5.0.8-alpine
 nginx:stable-alpine-perl
 bladex/alpine-java:openjdk8-openj9_cn_slim
