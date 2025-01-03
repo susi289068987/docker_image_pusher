@@ -8,7 +8,7 @@ nginx:stable-alpine-perl
 bladex/alpine-java:openjdk8-openj9_cn_slim
 bladex/alpine-java:openjdk17_cn_slim
 azul/zulu-openjdk-alpine:17.0.10-jdk
-adoptopenjdk:17
+openjdk:17
 minio/minio:RELEASE.2021-04-22T15-44-28Z
 goharbor/harbor-log:v1.9.4
 goharbor/registry-photon:v2.7.1-patch-2819-2553-v1.9.4
