@@ -19,5 +19,6 @@ goharbor/harbor-portal:v1.9.4
 goharbor/harbor-jobservice:v1.9.4
 goharbor/redis-photon:v1.9.4
 goharbor/nginx-photon:v1.9.4
+ollama/ollama
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
